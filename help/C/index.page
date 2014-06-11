@@ -22,10 +22,10 @@
 
   <title><media type="image" its:translate="no" src="figures/logo32.png">
   Tali logo</media> Tali</title>
-  <p>Beat the odds in a poker-style dice game</p>
+  <p><app>Tali</app> is similar to poker with dice. You roll five dice three
+  times and try to create the best hand.</p>
 
-
-  <section id="play" style="2column">
+ <section id="play" style="2column">
     <title>Playing Tali</title>
   </section>
 
