@@ -1,7 +1,9 @@
 @YELP_HELP_RULES@
 HELP_ID = tali
 
-HELP_MEDIA = 
+HELP_MEDIA = \
+	figures/logo32.png \
+	figures/logo.png
 
 HELP_FILES = \
 	index.page \
