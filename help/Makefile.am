@@ -7,6 +7,7 @@ HELP_MEDIA = \
 
 HELP_FILES = \
 	index.page \
+	start-game.page \
 	legal.xml
 
 HELP_LINGUAS =
