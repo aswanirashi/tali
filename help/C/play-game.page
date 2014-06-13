@@ -32,5 +32,8 @@
     scoring combination. It is possible to have a score of zero and if you
     click on the wrong row, you will be scored accordingly.</p></item>
   </steps>
+  <note>
+    <p>You can only use each combination once, once you have chosen a scoring
+    combination, you can not choose the same again.</p>
+  </note>
 </page>
-
