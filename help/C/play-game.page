@@ -1,0 +1,36 @@
+<page xmlns="http://projectmallard.org/1.0/"
+      type="topic"
+      id="play-game">
+
+  <info>
+    <link type="guide" xref="index#play"/>
+    <revision version="3.12" date="2014-06-13" status="review"/>
+
+    <credit type="author">
+      <name>Rashi Aswani</name>
+      <email>aswanirashi19@gmail.com</email>
+      <years>2014</years>
+    </credit>
+
+    <include href="legal.xml" xmlns="http://www.w3.org/2001/XInclude" />
+
+  </info>
+
+  <title>Play</title>
+
+  <p>You have to roll the five dice three times and try to create a best
+  hand. When the game starts, you see the results of the first throw of the
+  dice.</p>
+
+  <steps>
+    <item><p>Click on the dice you wish to roll. You can select all the dice to
+    roll in the second or third roll by clicking <gui>Roll all!</gui> on the
+    bottom left.</p></item>
+    <item><p>Click on <gui>Roll!</gui> to roll the selected dice.</p></item>
+    <item><p>When you have a hand you like or have run out of chances to throw
+    the dice, click on a row corresponding to what you think is your best
+    scoring combination. It is possible to have a score of zero and if you
+    click on the wrong row, you will be scored accordingly.</p></item>
+  </steps>
+</page>
+
