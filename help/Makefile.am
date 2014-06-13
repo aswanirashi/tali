@@ -13,7 +13,7 @@ HELP_FILES = \
 	play-game.page \
 	scores.page \
 	settings.page
-	start-game.page \
+	start-game.page
 
 HELP_MEDIA = 
 
