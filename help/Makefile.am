@@ -9,10 +9,11 @@ HELP_FILES = \
 	game-settings.page \
 	index.page \
 	keyboard-shortcuts.page \
-        legal.xml \
+  legal.xml \
 	play-game.page \
 	scores.page \
 	settings.page
+	start-game.page \
 
 HELP_MEDIA = 
 
