@@ -9,6 +9,7 @@ HELP_FILES = \
 	index.page \
 	start-game.page \
 	play-game.page \
+	score-slot.page \
 	legal.xml
 
 HELP_LINGUAS =
