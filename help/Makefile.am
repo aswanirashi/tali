@@ -20,6 +20,7 @@ HELP_FILES = \
 	start-game.page \
 	play-game.page \
 	score-slot.page \
+	players-setting.page \
 	legal.xml
 
 HELP_LINGUAS = ca cs da de el en_GB es eu fr gl it oc pt_BR ru sl sr sr@latin sv zh_CN
