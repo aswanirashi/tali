@@ -11,6 +11,7 @@ HELP_FILES = \
 	play-game.page \
 	score-slot.page \
 	players-setting.page \
+	game-settings.page \
 	legal.xml
 
 HELP_LINGUAS =
