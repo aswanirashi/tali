@@ -16,6 +16,7 @@ HELP_FILES = \
 	score-slot.page \
 	players-setting.page \
 	game-settings.page \
+	scores.page \
 	legal.xml
 
 HELP_MEDIA = 
