@@ -13,6 +13,7 @@ HELP_FILES = \
 	players-setting.page \
 	game-settings.page \
 	scores.page \
+	keyboard-shortcuts.page \
 	legal.xml
 
 HELP_LINGUAS =
