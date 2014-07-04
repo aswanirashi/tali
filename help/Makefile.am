@@ -22,6 +22,6 @@ HELP_FILES = \
 
 HELP_MEDIA = 
 
-HELP_LINGUAS =
+HELP_LINGUAS = ca cs da de el en_GB es eu fr gl it oc pt_BR ru sl sr sr@latin sv zh_CN
 
 -include $(top_srcdir)/git.mk
