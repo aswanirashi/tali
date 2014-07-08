@@ -1,13 +1,5 @@
 AC_PREREQ([2.63])
-<<<<<<< HEAD
 AC_INIT([Tali], [3.13.1], [https://bugzilla.gnome.org/],
-=======
-<<<<<<< HEAD
-AC_INIT([Tali], [3.12.2], [https://bugzilla.gnome.org/],
-=======
-AC_INIT([Tali], [3.13.1], [https://bugzilla.gnome.org/],
->>>>>>> Prepare 3.13.1
->>>>>>> Prepare 3.13.1
         [tali], [https://wiki.gnome.org/Apps/Tali])
 AM_INIT_AUTOMAKE([1.11 no-dist-gzip dist-xz foreign])
 AM_SILENT_RULES([yes])
