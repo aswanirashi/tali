@@ -18,20 +18,15 @@
 
   <title>Game settings</title>
 
-  <p>You can play the regular version of the game which is similar to Yahtzee
-  or the game with colors, similar to Kismet. To switch over to another version
-  of the game:</p> 
-  <!-- check for trailing spaces -->
-  <!--The first sentence must be reworded to say "blah blah is the default game, to switch over to another gamae:" -->
-  <!-- Why is this in list!!! argh...rewrite using steps! -->
-    <list>
+  <p>The <gui>Regular</gui> version is the default game, to switch over to
+  another game:</p>
+    <steps>
       <item><p>Select <guiseq><gui style="menu">Tali</gui>
-      <gui style="menuitem">Preferences</gui></guiseq> from the application
-      menu.</p></item>
+      <gui style="menuitem">Preferences</gui></guiseq>.</p></item>
       <item><p>You can select the game version you want to play from the drop
       down menu next to <gui>Game Type</gui>.</p></item>
       <item><p>To start playing the newly selected version of the game, you
       need to <link xref="start-game">Start a new game</link>.</p></item>
-    </list>
+    </steps>
 </page>
 
