@@ -12,8 +12,8 @@ HELP_FILES = \
         legal.xml \
 	play-game.page \
 	scores.page \
-	settings.page 
+	settings.page
 
-HELP_LINGUAS = ca cs da de el en_GB es eu fr gl it oc pt_BR ru sl sr sr@latin sv zh_CN
+HELP_LINGUAS =
 
 -include $(top_srcdir)/git.mk
