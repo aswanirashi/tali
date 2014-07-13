@@ -14,6 +14,8 @@
 
     <include href="legal.xml" xmlns="http://www.w3.org/2001/XInclude" />
 
+    <desc>Check out your scores and know more about the score slots.</desc>
+
   </info>
 
   <title>Scores</title>
